@@ -48,7 +48,7 @@ Visual Studio Code "offers a large variety of features, is available on multiple
 1. Set up a build configuration or define tasks in a tasks.json file.
 1. Use the "Run Build Task" command or your compiler
 1. Run your program
-2. 
+   
  
 ## References
 
