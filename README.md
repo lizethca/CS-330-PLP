@@ -38,7 +38,8 @@ Will add more resources as the term continues.
 
 **C/C++ Extension:** In VS Code, install a "C/C++" extension for fYou can find this extension in the Visual Studio Code marketplace.
 
-**Recommended Programming Environment:**
+
+**Recommended Programming Environment**
 
 Visual Studio Code "offers a large variety of features, is available on multiple platforms, GitHub integrated, and good extension support" (Hossain)
 
@@ -48,7 +49,10 @@ Visual Studio Code "offers a large variety of features, is available on multiple
 1. Set up a build configuration or define tasks in a tasks.json file.
 1. Use the "Run Build Task" command or your compiler
 1. Run your program
-   
+
+**Comments in C++**
+
+To comment in C++ just add a '//' at the start of the line!
  
 ## References
 
