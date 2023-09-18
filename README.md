@@ -25,7 +25,12 @@ MySQL and MongoDB also work with C++. This means that companies that use these d
 
 ## Resources to Learn C++
 
-YouTube 
+YouTube channels like [CodeBeauty](https://www.youtube.com/@CodeBeauty/playlists) with tutorials catered for beginners.
+Additionally, [W3Schools](https://www.w3schools.com/cpp/) website provides clear and direct explanations.
+
+Will add more resources as the term continues.
+
+ 
 ## References
 Pramanick, Sohom. “History of C.” GeeksforGeeks, GeeksforGeeks, 18 July 2019, www.geeksforgeeks.org/history-of-c/. Accessed 16 Sept. 2023.
 Xiao, Lillian. “What Is C++ Used For?” Codecademy Blog, 10 May 2021, www.codecademy.com/resources/blog/what-is-c-plus-plus-used-for/. Accessed 16 Sept. 2023.
