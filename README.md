@@ -53,6 +53,16 @@ Visual Studio Code "offers a large variety of features, is available on multiple
 **Comments in C++**
 
 To comment in C++ just add a '//' at the start of the line!
+
+## Hello, World! Program
+```
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+```
  
 ## References
 
