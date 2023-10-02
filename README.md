@@ -1,7 +1,6 @@
 # C++ Learning
-CS 330: PLP 1: Language Overview and Setup
 
-Author: Liz Campuzano Martínez
+**Author:** Liz Campuzano Martínez
 
 ## History
 The C++ language was developed by Bjarne Stroustrup at Bell Telephone Laboratories (currently Nokia Bell Labs) in Murray Hill, New Jersey. He wanted a similar language to C but sought flexibility. He was looking to add features like "active type checking, basic inheritance, default functioning argument, classes, inlining, etc." (Pramanick)
@@ -53,6 +52,16 @@ Visual Studio Code "offers a large variety of features, is available on multiple
 **Comments in C++**
 
 To comment in C++ just add a '//' at the start of the line!
+```
+// This is what a comment looks like!
+```
+
+Multiple line comments start with /* and end with */
+```
+/* This
+is what a multiple-line
+comment looks like */
+```
 
 ## Hello, World! Program
 ```
