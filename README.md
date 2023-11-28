@@ -73,12 +73,12 @@ int main() {
 }
 ```
 ## Data Types and Naming conventions
-**Int**
-**String**
-**Floating-point number**
-**Boolean**
-**Array/List**
-**Dictionary**
+1. **Int**
+1. **String**
+1. **Floating-point number**
+1. **Boolean**
+1. **Array/List**
+1. **Dictionary**
 
 
 ## References
