@@ -72,13 +72,14 @@ int main() {
     return 0;
 }
 ```
-## Data Types and Naming conventions
+## Data Types and Naming Conventions
 1. **Int**
 1. **String**
 1. **Floating-point number**
 1. **Boolean**
 1. **Array/List**
 1. **Dictionary**
+1. **Pointers**
 
 
 ## References
