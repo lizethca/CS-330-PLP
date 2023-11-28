@@ -72,7 +72,15 @@ int main() {
     return 0;
 }
 ```
- 
+## Data Types and Naming conventions
+**Int**
+**String**
+**Floating-point number**
+**Boolean**
+**Array/List**
+**Dictionary**
+
+
 ## References
 
 Pramanick, Sohom. “History of C.” GeeksforGeeks, GeeksforGeeks, 18 July 2019, www.geeksforgeeks.org/history-of-c/. Accessed 16 Sept. 2023.
