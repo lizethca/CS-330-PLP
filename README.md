@@ -465,15 +465,16 @@ double, int)           |       |                 |
 - User can view available products, with details such as name of the item, type, size, color, price, quantity, etc.
 
 ## Highlights
-- Memory management: have the user add items to their cart, view items again and see the quantity they took subtracted from the initial one.
-- Display products.
-- Starting point for more development like a credit card validator, checkout process, shipping, etc.
+- **Memory management:** have the user add items to their cart, view items again and see the quantity they took subtracted from the initial one.
+- **Display items:** show products and their attributes.
+- **Room for improvement:** Starting point for more development like a credit card validator, checkout process, shipping, etc.
 
 ## Issues found throughout the Project
-- Infinite loops: There was a lot of scenarios where the program could loop, so learning about features like `cin.ignore();` and mastering the node files was key and time consuming.
-- Managing files: Having a lot of functions was difficult at first, as I wanted to avoid overriding values and seeked some control over access for each file to the others. However, this was fixed through implementing header files, as it was key to having a more efficient program.
-- User experience: At the beginning draft of the code, the program was more like a display of a database than an actual simulation of the shopping process, so researching how to personalize the experience more and UI principles was essential. This was improved through asking the user for a name, adding welcome and introduction texts, etc.
+- **Infinite loops:** There was a lot of scenarios where the program could loop, so learning about features like `cin.ignore();` and mastering the node files was key and time consuming.
+- **Managing files:** Having a lot of functions was difficult at first, as I wanted to avoid overriding values and seeked some control over access for each file to the others. However, this was fixed through implementing header files, as it was key to having a more efficient program.
+- **User experience:** At the beginning draft of the code, the program was more like a display of a database than an actual simulation of the shopping process, so researching how to personalize the experience more and UI principles was essential. This was improved through asking the user for a name, adding welcome and introduction texts, etc.
 
+> Refer to the code in this repository to see the finalized project files.
 
 ## References
 
